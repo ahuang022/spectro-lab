@@ -1,0 +1,40 @@
+html, body{
+  background-image: url("https://th.bing.com/th/id/R.9ff9fa618285f75981b1bf2cd2cead7c?rik=u5TiX4rh23IMcA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fHD-solid-color-wallpaper.jpg&ehk=rGMuvcGj4Icv2ddWyPj1sQ8kUGWtXz%2f52EWYhXdqLOI%3d&risl=&pid=ImgRaw&r=0");
+}
+h2{
+  font-family: calibri;
+  color: white;
+  text-align: left;
+  margin: 20px;
+  padding: 10px;
+  background-color: rgba(0,0,0,0.2);
+  display: table;
+}
+#title{
+  display: table;
+  text-align: center;
+  background-color: rgba(0,0,0,0.2);
+  position: relative;
+  right: -40%;
+  padding: 5px;
+  color: white;
+}
+#graph{
+  position: relative;
+  bottom: -50px;
+  right: -35%;
+  border: 10px solid rgba(0,0,0,0.2);
+}
+#graphtitle{
+  text-align: center;
+}
+p{
+  margin: 20px;
+  font-size: 22px;
+  font-family: calibri;
+  color: white;
+}
+  #tester{
+    position: relative;
+    right:-25%;
+  }
